@@ -1,6 +1,4 @@
 # Proyecto-Barberia
-Proyecto pagina de una barberia
-pagina basica de una barberia
-puedes adceder a su pagina principal
-puedes acceder a una seccion de productos y contactos
-Enlace a la pagina: https://fabiosalgadob.github.io/Proyecto-Barberia/
+1.Proyecto pagina de una barberia.
+2.pagina basica de una barberia.
+3.Enlace a la pagina: https://fabiosalgadob.github.io/Proyecto-Barberia/
